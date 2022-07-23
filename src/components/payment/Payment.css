@@ -1,0 +1,86 @@
+.mainboxcenter {
+  width: 75%;
+}
+.heading {
+  border: solid #ededed;
+
+
+  background-color: #ededed;
+  margin: auto;
+}
+
+.mainboxleft {
+  /* border:solid #ededed; */
+  display: flex;
+
+  /* width: 450px; */
+  margin: auto;
+}
+.login {
+  border: solid #ededed;
+
+  
+  display: flex;
+  justify-content: space-around;
+}
+.logindetail {
+  line-height: 5px;
+  font-size: 15px;
+}
+.vl {
+  border-left: 3px solid #f0f0f0;
+
+}
+.otherlogin {
+  height: 30px;
+
+  border-radius: 10px;
+}
+.custdetail {
+  border: solid #ededed;
+  height: 200px;
+ 
+  line-height: 2px;
+  font-size: 15px;
+  margin-top: 7px;
+}
+.payment {
+  line-height: 15px;
+  border: solid #ededed;
+  height: 350px;
+  display: grid;
+  grid-template-rows: repeat(4,1fr);
+}
+.booking {
+  /* line-height: 12px;
+  border: solid #ededed;
+  height: 500px;
+  margin-top: 10px;
+  font-size: 15px; */
+  font-weight: bold;
+}
+.information {
+  text-overflow: clip;
+  border: solid #ededed;
+
+
+  margin-top: 10px;
+  font-size: 10px;
+}
+.hoteldetail {
+  border: solid #ededed;
+
+
+  margin-left: 10px;
+}
+.image {
+  width: 290px;
+}
+.pricedetail {
+
+  border: solid #ededed;
+
+  font-size: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
